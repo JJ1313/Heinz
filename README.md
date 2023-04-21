@@ -1,5 +1,5 @@
 - Hi, I’m Heinz...
-- I’m interested in nature.
+- I’m interested in cosas
 - I’m currently learning un poco de esto, un poco de aquello...
 
 <!---
